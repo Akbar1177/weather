@@ -1,0 +1,28 @@
+form{
+    display: flex;
+    justify-content: center;
+}
+.search{
+    padding: 15px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    outline: none;
+    border: 1px solid #fff;
+    background: white;
+    margin-bottom: 20px;
+}
+.button{
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    outline: none;
+    border: 1px solid #fff;
+    margin-bottom: 20px;
+    background: white;
+}
+.lupa{
+
+    width: 50px;
+    height: 50px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
